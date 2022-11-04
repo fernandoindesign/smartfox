@@ -1,2 +1,2 @@
-# smartfox
- smartfox agency repo
+# smartFox
+ smartfox agency dev repository
